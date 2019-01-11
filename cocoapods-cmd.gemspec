@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Grzegorz Sagadyn']
   spec.email         = ['sagadyn@gmail.com']
   spec.summary       = 'Runs custom bash script'
-  spec.homepage      = 'https://github.com/gsagadyn/cocoapods-script'
+  spec.homepage      = 'https://github.com/gsagadyn/cocoapods-cmd'
   spec.license       = 'MIT'
   spec.files         = Dir['lib/**/*']
 
