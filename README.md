@@ -1,8 +1,8 @@
-# cocoapods-xcodegen
+# cocoapods-cmd
 
-CocoaPods plugins that generates an .xcodeproj file from a .project.yml file.
+CocoaPods plugins that generates runs bash script.
 
 ## Installation
 
-    $ gem install cocoapods-postaction
+    $ gem install cocoapods-cmd
 
